@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title uno",
+      "body": "uno Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id hic quis adipisci neque dolorem magni, sunt ad delectus beatae perspiciatis.",
+      "likes": "40"
+    },
+    {
+      "id": 2,
+      "title": "Title dos",
+      "body": "dos Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id hic quis adipisci neque dolorem magni, sunt ad delectus beatae perspiciatis.",
+      "likes": "20"
+    },
+    {
+      "id": 3,
+      "title": "Title tres",
+      "body": "tres Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id hic quis adipisci neque dolorem magni, sunt ad delectus beatae perspiciatis.",
+      "likes": "30"
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you like react",
+      "answerA": "yes",
+      "answerB": "not"
+    }
+  ]
+}
